@@ -1,31 +1,28 @@
-![](https://gist.github.com/assets/164003859/a39e5b9e-118c-482f-ac75-e5527f543282)
+![](https://user-images.githubusercontent.com/125879861/255391401-371f3a64-732d-4954-ac0f-4f093a6605e1.png)
 
 <br>
 
 <p align="center"><strong>「 A Pyrogram based Telegram Bot to Transfer Files / Folders to Telegram and Google Drive with the help of Google Colab With Multi-Functionality 」</strong></p>
 
-<br>
-
-## **copyright ©**
+## **copyright © & Thanks to**
 Xron Trix | https://github.com/Xrontrix10
+
+<br>
 
 ## **📖 Click To Open The Notebook**
 
-<a href="" target="_parent"><img src="https://gist.github.com/assets/164003859/a39e5b9e-118c-482f-ac75-e5527f543282" alt="Open In Colab" width=200px/></a>
-
-## **@Thanks to**
-Xron Trix | https://github.com/Xrontrix10
+<a href="https://colab.research.google.com/drive/1fyH67cc4MgcjO2snK-wC1bGUxihno4-M?usp=sharing" target="_parent"><img src="https://user-images.githubusercontent.com/125879861/255389999-a0d261cf-893a-46a7-9a3d-2bb52811b997.png" alt="Open In Colab" width=200px/></a>
 
 
 ## 🎓 **How To Deploy**
 
-<h3>Read <a href="">INSTRUCTIONS</a></h3>
+<h3>Read <a href="https://github.com/XronTrix10/Telegram-Leecher/wiki/INSTRUCTIONS">INSTRUCTIONS</a></h3>
 
 <br>
 
 <h3>Watch YouTube Tutorial</h3>
 
-[![Watch It]()]()
+[![Watch It](https://img.youtube.com/vi/6LvYd-oO3U0/0.jpg)](https://www.youtube.com/watch?v=6LvYd-oO3U0)
 
 ## **💡 Features**
 
@@ -61,7 +58,7 @@ Xron Trix | https://github.com/Xrontrix10
 
 ## **🚀 UPTO 200 MiB/s Download Speed and 30 MiB/s Upload Speed**
 
-![Image 1](https://gist.github.com/assets/164003859/a39e5b9e-118c-482f-ac75-e5527f543282)
+![Image 1](https://user-images.githubusercontent.com/125879861/245217970-aa132967-c304-4b6d-a594-8c57a8f3d066.png)
 
 ## **🦉 Problems**
 
@@ -76,9 +73,9 @@ Xron Trix | https://github.com/Xrontrix10
 
 ## **🤙🏼 Connect With Us**
 
-<a href="https://t.me/talhasmovie_request_bot" target="_parent"><img src=""></a>
+<a href="https://t.me/Colab_Leecher" target="_parent"><img src="https://img.shields.io/badge/-Channel-blue?color=white&logo=telegram&logoColor=vlue"></a>
 
-<a href="" target="_parent"><img src=""></a>
+<a href="https://t.me/Colab_Leecher_Discuss" target="_parent"><img src="https://img.shields.io/badge/-Group-blue?color=white&logo=telegram&logoColor=vlue"></a>
 
 
 ## **⚖️ License**
@@ -99,6 +96,10 @@ Xron Trix | https://github.com/Xrontrix10
 > - running denial-of-service attacks
 > - password cracking
 
-<sub>Source: <a href="">Colab FAQ</a></sub>
+<sub>Source: <a href="https://research.google.com/colaboratory/faq.html">Colab FAQ</a></sub>
 
 <br>
+
+<h3 align="center">Please Leave a 🌟 If this repo Helped you</h4>
+
+<h4 align="center">Pull Requests are welcome 💗</h4>
