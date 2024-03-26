@@ -20,9 +20,6 @@ Xron Trix | https://github.com/Xrontrix10
 
 <br>
 
-<h3>Watch YouTube Tutorial</h3>
-
-[![Watch It](https://img.youtube.com/vi/6LvYd-oO3U0/0.jpg)](https://www.youtube.com/watch?v=6LvYd-oO3U0)
 
 ## **💡 Features**
 
