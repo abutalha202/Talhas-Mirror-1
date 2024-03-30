@@ -21,7 +21,7 @@ async def start(client, message):
         [
             [
                 InlineKeyboardButton(
-                    "Repository 🦄", url="https://github.com/abutalha202"
+                    "", url=""
                 ),
                 InlineKeyboardButton("Support 💝", url="https://t.me/talhasmovie_request_bot"),
             ],
@@ -427,18 +427,18 @@ async def help_command(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "Talha's Bot",
+                        "Any issues Knocked Me Their",
                         url="https://t.me/talhasmovie_request_bot",
                     ),
                 ],
                 [
                     InlineKeyboardButton(  # Opens a web URL
                         "Channel 📣",
-                        url="https://t.me/talhasmovie_request_bot",
+                        url="",
                     ),
                     InlineKeyboardButton(  # Opens a web URL
-                        "Group 💬",
-                        url="https://t.me/talhasmovie_request_bot",
+                        "",
+                        url="",
                     ),
                 ],
             ]
