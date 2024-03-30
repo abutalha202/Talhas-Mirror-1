@@ -216,7 +216,7 @@ async def cancelTask(Reason: str):
                             ),
                             InlineKeyboardButton(  # Opens a web URL
                                 "",
-                                url=",
+                                url="",
                             ),
                         ],
                     ]
